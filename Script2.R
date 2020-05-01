@@ -1,1 +1,2 @@
-print "Message"
+print("Message")
+3*2
